@@ -1,3 +1,4 @@
+#include <opencv2/core.hpp>
 #include <opencv2/imgcodecs.hpp>
 #include <opencv2/highgui.hpp>
 #include <opencv2/imgproc.hpp>
@@ -43,7 +44,7 @@ void main() {
     //img_cropped = img(roi);
 
     //imshow("Image", img_cropped);
-    //waitKey(0);
+    //waitKey(0);   
 
     
     ///////////////////  Basic Functions  //////////////////////

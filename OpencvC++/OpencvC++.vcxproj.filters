@@ -26,7 +26,7 @@
     </Image>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="basics.cpp">
+    <ClCompile Include="imgProcessing.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>

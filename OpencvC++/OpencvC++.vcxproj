@@ -150,7 +150,7 @@
     <Image Include="SLIC-Superpixels-master\dog_segmentation.png" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="basics.cpp" />
+    <ClCompile Include="imgProcessing.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
