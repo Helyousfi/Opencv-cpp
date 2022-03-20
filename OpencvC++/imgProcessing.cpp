@@ -20,6 +20,7 @@ void main()
 	//string path = "Resources/shapes.png";
 	//Mat img = imread(path);
 	drawLine(black_image, Point(10,10), Point(w/2,w/2));
+
 	imshow("image", black_image);
 	waitKey(0);
 }
